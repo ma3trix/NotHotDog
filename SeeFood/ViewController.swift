@@ -1,6 +1,5 @@
 //
 //  ViewController.swift
-//  SeeFood
 //
 //  Created by Malik Adebiyi on 2020-04-25.
 //  Copyright © 2020 dot.sandbox. All rights reserved.
